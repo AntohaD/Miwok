@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Program\\Android Studio\\Projects\\ud839_Miwok-Starter-code\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h320dp-v13\\values-h320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Антон\\.android\\build-cache\\bfc4b81dc6b7af46e65b76cfa43a1ce9054beaa0\\output\\res\\values-h320dp-v13\\values-h320dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    }
+]
